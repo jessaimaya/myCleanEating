@@ -1,0 +1,415 @@
+{
+  "data": {
+    "recipes": [
+      {
+        "createdAt": "2023-12-29T19:04:43.384167+00:00",
+        "id": "clqr06n4b1jd30bk423dbjxne",
+        "name": "Shakshuka",
+        "publishedAt": null,
+        "servings": "5",
+        "time": "50min",
+        "updatedAt": "2023-12-30T07:06:57.046944+00:00",
+        "ingredients": [
+          {
+            "id": "clqr06n4b1jd40bk4c11f3if5",
+            "name": "Ingredients",
+            "ingredient": [
+              "1 tbsp olive oil",
+              "1 medium onion sliced",
+              "1 red bell pepper sliced",
+              "2 cloves garlic minced",
+              "1 800 gr whole peeled tomatoes",
+              "1 tsp chili powder",
+              "1 tsp paprika",
+              "1 tsp cumin",
+              "3-6 large eggs",
+              "30 gr crumbled feta cheese",
+              "salt & pepper to taste",
+              "fresh cilantro"
+            ]
+          }
+        ],
+        "category": [
+          {
+            "id": "clqqyxrrz1il90blfbkre8rpn",
+            "name": "breakfast"
+          }
+        ],
+        "favorite": false,
+        "preparation": [
+          "1. Preheat oven 375° F.\n2. Heat olive oil in a large skillet pan over medium low heat. Add in the bell pepper and onion and sauté until the onion becomes translucent (approx. 5 minutes).\n3. Next, add garlic and chili powder, paprika and cumin and cook for an additional minute.\n4. Pour in the can of tomatoes and juice into the pan and using a wooden spoon, crush the tomatoes then bring to a simmer and simmer for 5 minutes. Salt and pepper to taste.\n5. Make small wells in the sauce with your spoon and crack the eggs into each well. Sprinkle the tops of the eggs with more salt and pepper to taste and crumble feta cheese all over.\n6. Place the skillet in oven and bake for 8-12 minutes until egg whites turn opaque.\n7. Garnish with chopped cilantro.\n"
+        ],
+        "image": {
+          "url": "https://media.graphassets.com/VjhEJ7blQh6RkfLMnlx3"
+        }
+      },
+      {
+        "createdAt": "2023-12-29T20:06:00.104881+00:00",
+        "id": "clqr2dg361mq00bka5z36zh0f",
+        "name": "Avocado Greek Salad",
+        "publishedAt": null,
+        "servings": "4",
+        "time": "20",
+        "updatedAt": "2023-12-30T07:07:16.611792+00:00",
+        "ingredients": [
+          {
+            "id": "clqr2dg361mq10bka57liqyqr",
+            "name": "Salad",
+            "ingredient": [
+              "1 large cucumber peeled and cut into ½” slices\n\n",
+              "400gr tomatoes cut into quarters",
+              "½ cup red onion sliced thin",
+              "1 green bell pepper diced",
+              "1 cup olives pitted and halved",
+              "¼ cup parsley chopped (perejil)",
+              "2 avocados pitted and cut into chunks"
+            ]
+          },
+          {
+            "id": "clqr2dg3b1mq30bkaaxrj98ac",
+            "name": "Dressing",
+            "ingredient": [
+              "½ cup olive oil",
+              "½ cup red wine vinegar",
+              "2 gloves garlic grated",
+              "2 tsp oregano",
+              "½ tsp salt",
+              "½ tsp pepper"
+            ]
+          }
+        ],
+        "category": [
+          {
+            "id": "clqqyyh1i1j660clhq242g1ra",
+            "name": "salads"
+          }
+        ],
+        "favorite": null,
+        "preparation": [
+          "1. To make the dressing, add all of the dressing ingredients into a small mixing bowl or mason jar. Whisk or shake well to combine and set aside.\n2.  In a large mixing bowl add the cucumber, tomatoes, red onion, olives, parsley, bell pepper, feta cheese and avocados.\n3. Pour the desired amount of dressing on top of the salad and toss to combine. Garnish with additional feta cheese if desired.\n"
+        ],
+        "image": {
+          "url": "https://media.graphassets.com/VRtEyPT0S3GlcH0OxdU1"
+        }
+      },
+      {
+        "createdAt": "2023-12-29T20:46:14.929508+00:00",
+        "id": "clqr3t7dv1o910clhpcekam0q",
+        "name": "Black Beans Soup",
+        "publishedAt": null,
+        "servings": "2",
+        "time": "1.5 hours",
+        "updatedAt": "2023-12-30T07:07:33.975608+00:00",
+        "ingredients": [
+          {
+            "id": "clqr3t7dv1o920clhbmw0crpl",
+            "name": "Ingredients",
+            "ingredient": [
+              "300 gr. black beans, drained (if using dry beans, soak overnight)",
+              "70 gr. crushed tomatoes\n\n",
+              "6 cups homemade chicken broth",
+              "1 chopped green pepper",
+              "1 chopped onion",
+              "2 minced garlic cloves",
+              "1 diced jalapeno pepper",
+              "1 teaspoon powder",
+              "2 teaspoons cumin",
+              "Salt and pepper to taste",
+              "1 can chopped green chilies (optional – lots of heat)"
+            ]
+          }
+        ],
+        "category": [
+          {
+            "id": "clqqyyqzw1im00blfn7hu8w3a",
+            "name": "soups"
+          }
+        ],
+        "favorite": false,
+        "preparation": [
+          "1. Place all ingredients in a slow cooker\n2.  Cook on low for 60 min.\n"
+        ],
+        "image": {
+          "url": "https://media.graphassets.com/HVAGzg58RBioTSQrKsc3"
+        }
+      },
+      {
+        "createdAt": "2023-12-29T20:49:38.270108+00:00",
+        "id": "clqr3xkaf1ods0blfd52axfut",
+        "name": "Lentils Stew",
+        "publishedAt": null,
+        "servings": "4",
+        "time": "1 hour",
+        "updatedAt": "2023-12-30T07:07:54.651024+00:00",
+        "ingredients": [
+          {
+            "id": "clqr3xkag1odt0blfjm2rbde4",
+            "name": "Ingredients",
+            "ingredient": [
+              "1 cup lentils",
+              "2 sliced celery stalks",
+              "1 sliced carrot",
+              "1 tablespoon balsamic vinegar",
+              "1 teaspoon minced garlic",
+              "½ teaspoons thyme (tomillo)",
+              "½ teaspoons oregano",
+              "½ teaspoons basil (albahaca)",
+              "½ teaspoons marjoram (mejorana)",
+              "1/3 cup tomato sauce",
+              "6 cups homemade vegetable broth",
+              "Salt and pepper to taste"
+            ]
+          }
+        ],
+        "category": [
+          {
+            "id": "clqqyyqzw1im00blfn7hu8w3a",
+            "name": "soups"
+          }
+        ],
+        "favorite": false,
+        "preparation": [
+          "1. Rinse the lentils thoroughly.\n2.  Place all ingredients in a large pot and stir.\n3.  Bring the liquid to a boil, then lower the heat to a simmer.\n4. Simmer for 1 hour.\n"
+        ],
+        "image": {
+          "url": "https://media.graphassets.com/cuk5ErGTleM3whOfoj4O"
+        }
+      },
+      {
+        "createdAt": "2023-12-29T20:52:30.302799+00:00",
+        "id": "clqr4190o1ol50clhkibbjdx7",
+        "name": "Chicken and rice soup",
+        "publishedAt": null,
+        "servings": "6",
+        "time": "20 min",
+        "updatedAt": "2023-12-30T07:08:17.905683+00:00",
+        "ingredients": [
+          {
+            "id": "clqr4190o1ol60clhy74h304p",
+            "name": "Ingredients",
+            "ingredient": [
+              "6 cups homemade chicken broth",
+              "1 cup sliced carrots",
+              "1 diced onion",
+              "1 cup diced celery",
+              "1 ½ cup quick-cooking brown rice",
+              "1 cup shredded or cubed chicken meat",
+              "1 tablespoon lemon juice",
+              "1 teaspoon tarragon",
+              "1 teaspoon oregano",
+              "Salt and pepper to taste"
+            ]
+          }
+        ],
+        "category": [
+          {
+            "id": "clqqyyqzw1im00blfn7hu8w3a",
+            "name": "soups"
+          }
+        ],
+        "favorite": false,
+        "preparation": [
+          "1. Heat the broth in a large pot\n2. Stir in remaining ingredients except parsley.\n3. Simmer for 10-15 minutes, until the vegetables are soft and chicken no longer pink.\n4. Stir in the chopped parsley.\n5. Simmer for 5 more minutes.\n"
+        ],
+        "image": {
+          "url": "https://media.graphassets.com/6F2aqeVHSOelturkiwcv"
+        }
+      },
+      {
+        "createdAt": "2023-12-29T22:06:14.596091+00:00",
+        "id": "clqr6o2tx1qaf0bkask4cq27x",
+        "name": "Veal cabbage soup",
+        "publishedAt": null,
+        "servings": "4",
+        "time": "2 hours",
+        "updatedAt": "2023-12-30T07:08:39.930581+00:00",
+        "ingredients": [
+          {
+            "id": "clqr6o2tx1qag0bkad748qgt3",
+            "name": "Ingredients",
+            "ingredient": [
+              "1 tablespoon olive oil",
+              "700 gr. veal (ternera), cut into small pieces",
+              "3 cups homemade beef broth",
+              "1 chopped onion",
+              "1 minced garlic clove",
+              "1 bay leaf (laurel)",
+              "1 teaspoon fennel seeds (hinojo)",
+              "Salt and pepper to taste",
+              "2 potatoes, peeled and cubed",
+              "4 cups shredded cabbage",
+              "1 cup homemade tomato sauce"
+            ]
+          }
+        ],
+        "category": [
+          {
+            "id": "clqqyyqzw1im00blfn7hu8w3a",
+            "name": "soups"
+          }
+        ],
+        "favorite": false,
+        "preparation": [
+          "1.  Heat the oil in a Dutch oven and brown the veal for 10 minutes.\n2.  Pour in the beef broth and add the onion, garlic, salt, pepper, bay leaf and fennel seeds.\n3. Cover and simmer the broth for 2 hours.\n4. Add the vegetables and cook for another half hour, until the potatoes start to become tender.\n5. Add the tomato sauce, adjust the seasoning, and simmer for 15 more minutes.\n"
+        ],
+        "image": {
+          "url": "https://media.graphassets.com/pWcpHEMJSk6Orsq2FMND"
+        }
+      },
+      {
+        "createdAt": "2023-12-29T22:08:58.979528+00:00",
+        "id": "clqr6rlnv1qcb0bkap6wttzkf",
+        "name": "Fish with mango salsa",
+        "publishedAt": null,
+        "servings": "2",
+        "time": "25min",
+        "updatedAt": "2023-12-30T07:09:01.503215+00:00",
+        "ingredients": [
+          {
+            "id": "clqr6rlnv1qcc0bkazxt42rwl",
+            "name": "Salsa",
+            "ingredient": [
+              "1 large ripe mango diced",
+              "½ small red onion diced",
+              "¼ cup fresh cilantro chopped",
+              "1 medium red bell pepper diced",
+              "2 tbsp lime juice about 2 small limes",
+              "¼ tsp salt"
+            ]
+          },
+          {
+            "id": "clqr6rlo41qce0bkae5s8ckr7",
+            "name": "Fish",
+            "ingredient": [
+              "500gr fish filet",
+              "1 tbsp olive oil",
+              "½ tsp black pepper"
+            ]
+          }
+        ],
+        "category": [
+          {
+            "id": "clqqz06me1j5c0bkag8w0uopu",
+            "name": "main dishes"
+          }
+        ],
+        "favorite": false,
+        "preparation": [
+          "1. In a medium mixing bowl, add in all of the Salsa ingredients and mix well. Optional to let it marinate for 10+ minutes to really let the flavors out. Set aside.\n2. Pat the fish dry and season both sides with salt and pepper.\n3. Heat a grill or pan over medium heat and add oil. Cook the fish 4 to 6 minutes per side until it has turned opaque throughout. You should be able to easily flake the meat with a fork when it’s done.\n4. Let the fish rest for a minute or two before garnishing with the salsa. Store the extra salsa in an air tight container for future use.\n"
+        ],
+        "image": {
+          "url": "https://media.graphassets.com/dFuNyJNzR5ClCNRSEBzO"
+        }
+      },
+      {
+        "createdAt": "2023-12-29T22:12:08.785787+00:00",
+        "id": "clqr6vo491qb50clhczahebnc",
+        "name": "Thai chicken letucce wraps",
+        "publishedAt": null,
+        "servings": "4",
+        "time": "25min",
+        "updatedAt": "2023-12-30T07:09:23.279312+00:00",
+        "ingredients": [
+          {
+            "id": "clqr6vo491qb60clh7nt1apd8",
+            "name": "Ingredients",
+            "ingredient": [
+              "2 tbsp vegetable oil",
+              "450gr ground chicken (molida de pollo)",
+              "½ cup yellow onion diced",
+              "½ tsp salt",
+              "¼ tsp black pepper",
+              "3 cloves garlic minced",
+              "½ cup carrots sliced very thin",
+              "½ cup cabbage sliced thin",
+              "3 green onions chopped",
+              "2 tbsp soy sauce",
+              "¼ cup sweet chili sauce",
+              "8 butter lettuce leaves"
+            ]
+          }
+        ],
+        "category": [
+          {
+            "id": "clqqz06me1j5c0bkag8w0uopu",
+            "name": "main dishes"
+          }
+        ],
+        "favorite": false,
+        "preparation": [
+          "1. In a large skillet over medium heat, add the oil and heat until shimmering.\n2. Add the onion, salt, and pepper, and cook until translucent. Add the garlic and cook until fragrant.\n3. Add the ground chicken and saute until cooked through and ??no longer pink.\n4. Add the carrots, cabbage, and green onions, and cook for another 2 minutes.\n5. Turn down the heat to low and add in the soy sauce and sweet chili sauce. Toss everything until well combined and cook for another minute.\n6. Spoon the mixture into each lettuce cup and garnish with fresh chopped cilantro, chopped peanuts (optional), and a squeeze of lime. Eat right away.\n"
+        ],
+        "image": {
+          "url": "https://media.graphassets.com/J0TQ2V7DRoGPSEU2T6EA"
+        }
+      },
+      {
+        "createdAt": "2023-12-29T22:13:50.682174+00:00",
+        "id": "clqr6xuqo1pjx0bk4s6iixbqq",
+        "name": "Green tea, bakcberry and banana smoothie",
+        "publishedAt": null,
+        "servings": "2",
+        "time": "7min",
+        "updatedAt": "2023-12-30T07:09:40.93312+00:00",
+        "ingredients": [
+          {
+            "id": "clqrha3fb1yh20bkap9iprtlx",
+            "name": "Ingredients",
+            "ingredient": [
+              "4 tbsp Honey ",
+              "6 tbsp Water ",
+              "1 Green Tea Bag ",
+              "2 cup Frozen Blueberries ",
+              "1 Banana ",
+              "1 1/2 cup Milk "
+            ]
+          }
+        ],
+        "category": [
+          {
+            "id": "clqqz0h6j1i7v0bk44qw0a9sn",
+            "name": "smoothies"
+          }
+        ],
+        "favorite": false,
+        "preparation": [
+          "1.  In a small bowl, pour the water over the tea bag.\n2  Steep the tea for about 4 minutes and then remove the tea bag.\n3. Stir the honey into the tea and put the tea in the refrigerator until cool, about 20 minutes.\n4. In a blender, combine the blackberries, banana, and vanilla almond milk and pulse until smooth.\n5. Add the tea and the ice cubes and blend until the drink is smooth.\n6. Pour into glasses and serve.\n"
+        ],
+        "image": {
+          "url": "https://media.graphassets.com/zB5DVDk8Ttyrbd5tjfAk"
+        }
+      },
+      {
+        "createdAt": "2023-12-29T22:22:47.594583+00:00",
+        "id": "clqr79d101qjt0clh56yl51vw",
+        "name": "Cauliflower rice",
+        "publishedAt": null,
+        "servings": "4",
+        "time": "15min",
+        "updatedAt": "2023-12-30T07:09:57.624804+00:00",
+        "ingredients": [
+          {
+            "id": "clqr79d101qju0clhqod7xz62",
+            "name": "Ingredients",
+            "ingredient": [
+              "1 cauliflower head"
+            ]
+          }
+        ],
+        "category": [
+          {
+            "id": "clqqz0pxj1j9h0clh8jfxaxdd",
+            "name": "sides"
+          }
+        ],
+        "favorite": false,
+        "preparation": [
+          "1. Wash and thoroughly dry cauliflower, then remove all greens.\n2. If using a box grater, cut the cauliflower into large chunks and use the medium-sized holes (see photo – the side commonly used to grate cheese), to grate into “rice.” If using a food processor, cut into small pieces and use the grater attachment to grate the cauliflower into “rice.” \n3. Optional: Transfer to a clean towel or paper towel and press to remove any excess moisture, which can make your dish soggy.\n4. Once you have your cauliflower rice, it’s easy to cook (or enjoy raw)! Simply sauté in a large skillet over medium heat in 1 Tbsp oil. Cover with a lid so the cauliflower steams and becomes more tender. Cook for a total of 5-8 minutes, then season as desired (such as with soy sauce or salt and pepper)."
+        ],
+        "image": {
+          "url": "https://media.graphassets.com/5XeKFFCUSDa8nwYAGt6X"
+        }
+      }
+    ]
+  }
+}
